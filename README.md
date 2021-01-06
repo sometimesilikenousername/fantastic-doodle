@@ -1,2 +1,2 @@
-# fantastic-doodle
-A game I'm making with my friend.
+# Fantastic Doodle!
+Fantastic doodle is a <br>cool game.</br>

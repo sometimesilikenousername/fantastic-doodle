@@ -1,2 +1,2 @@
 # Fantastic Doodle!
-Fantastic doodle is a <br>cool game.</br>
+Fantastic doodle is a cool game.
